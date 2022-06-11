@@ -1,2 +1,2 @@
 # ios-landmarks
-Swift UI official documentation
+App from Swift UI official documentation
